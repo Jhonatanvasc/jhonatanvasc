@@ -1,5 +1,5 @@
 Olá Mundo!! 
-Me chamo Jhonatan, Sou um desenvovedor Front-End, apaixonado por tecnologia
+Me chamo Jhonatan, Sou um desenvolvedor Front-End, apaixonado por tecnologia
 encontrei na programação uma forma de solucionar problemas e ajudar pessoas.
 
 Em Front-End tenho experiência com JavaScript, React, HTML, CSS, Context API, Styled Components entre outras ferramentas.
